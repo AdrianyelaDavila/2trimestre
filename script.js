@@ -6,21 +6,21 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Com quantos anos você pode tirar sua carteira de motorista?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            textoHoje em dia, os jovens com menos de 18 (dezoito) anos, não podem fazer a Carteira de motorista- CNH. Porém quando um jovem acima de 16 (dezesseis) anos, é emancipado ele passa a ter responsabilidades como um maior de idade. Sendo assim, os pais tem que fazer a autorização de emancipação.:,
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"O primeiro passo para conseguir tirar sua primeira habilitação é, antes de mais nada, ir à uma autoescola de confiança. Lá mesmo será feito o agendamento do pré-cadastro e da entrega dos documentos exigidos pelo Detran ou Ciretran a da sua cidade, onde será iniciado o processo de habilitação.",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "?",
     alternativas: [
         {
 
