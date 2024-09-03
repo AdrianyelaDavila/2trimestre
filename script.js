@@ -10,11 +10,21 @@ const perguntas = [
     alternativas: [
         {
             textoHoje em dia, os jovens com menos de 18 (dezoito) anos, não podem fazer a Carteira de motorista- CNH. Porém quando um jovem acima de 16 (dezesseis) anos, é emancipado ele passa a ter responsabilidades como um maior de idade. Sendo assim, os pais tem que fazer a autorização de emancipação.:,
-            afirmacao: "afirmação 1"
+            afirmacao: "Motivos para voçê tirar sua carteira de motorista:
+Independência.
+Mais oportunidades de empregos.
+Não se atrasar nunca mais.
+Fazer aquela viagem com as amigas.
+Privacidade.
+Não enfrentar ônibus lotados.
+Ser o motorista da rodada."
         },
         {
         texto:"O primeiro passo para conseguir tirar sua primeira habilitação é, antes de mais nada, ir à uma autoescola de confiança. Lá mesmo será feito o agendamento do pré-cadastro e da entrega dos documentos exigidos pelo Detran ou Ciretran a da sua cidade, onde será iniciado o processo de habilitação.",
-        afirmacao: "afirmação 2"
+        afirmacao: "O que impede de tirar habilitação?
+            Quem estiver sob efeito de condenação penal por delito de trânsito.
+Quem estiver sob efeito de suspensão ou proibição do uso da permissão para dirigir ou da habilitação para dirigir.
+"
         }
     ]
 },
@@ -24,26 +34,33 @@ const perguntas = [
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-        afirmacao: "afirmação 3"
+        texto: "Quais são as questões que mais caem na prova do DETRAN?.",
+        afirmacao: "Legislação de Trânsito: 12 questões (18h)
+1.Direção Defensiva: 10 questões (16h)
+2.Primeiros Socorros: 3 questões (4h)
+3.Cidadania e Meio Ambiente: 3 questões (4h)
+4.Mecânica Básica: 2 questões (3h)"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-        afirmacao: "afirmação 4"
+        texto:"Quanto vai custar a CNH em 2024?",
+        afirmacao: "A emissão e envio da: CNH R$ 127,69; Exame psicológico: R$ 136,16. Exame médico: R$ 116,69 (R$ 85,57 pessoas com deficiência) Exame prático: R$ 48,62."
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "Qual a classificação de carteira de motorista??",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-        afirmacao: "afirmação 5"
+        texto:"Para tirar a carteira, o cidadão precisará escolher quais categorias quer se especializar. Categorias essas que são subdivididas entre as letras A, B, C, D e E, e representam o tipo de automóvel que será conduzido, como motocicletas, carros, caminhões, vans entre outros.",
+        afirmacao: "A	Motos
+B	Carros e veículos de carga leve (até 3.500 kg ou 8 lugares para passageiros)
+C	Caminhões pequenos e outros veículos de carga entre 3.500 e 6000 kgs de peso total)
+D	Ônibus e microônibus com mais de 8 lugares para passageiros"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-        afirmacao: "afirmação 6"
+        texto:"Quais países aceitam CNH do Brasil?.",
+        afirmacao: "Argentina (foto) e também na Bolívia, no Chile, na Colômbia, no Equador, na Guiana, no Paraguai, no Peru, no Uruguai e na Venezuela."
         }
     ]
 }
